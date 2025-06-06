@@ -1,4 +1,5 @@
 google-adk
+google-generativeai
 pandas
 langchain
 langchain-community
