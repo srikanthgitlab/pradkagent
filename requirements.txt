@@ -1,2 +1,6 @@
 google-adk
 pandas
+langchain
+langchain-community
+PyGithub
+python-dotenv
